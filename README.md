@@ -12,6 +12,6 @@ HELLO MY NAME IS...
    ░          ░  ░         ░  ░     ░  ░    ░  ░         ░  ░         ░              ░ ░           ░  ░      ░ ░  
  ░                                                                                                                                                                                                                                  
 ```
-💻 Software Engineer with strong knowledge in Web Development
-🌐 NextJS 13 & Supabase for my web stack
-👑 Currently learning Nim-lang and TensorFlow
+- 💻 Software Engineer with strong knowledge in Web Development
+- 🌐 NextJS 13 & Supabase for my web stack
+- 👑 Currently learning Nim-lang and TensorFlow
